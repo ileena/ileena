@@ -29,12 +29,11 @@ Currently working at the intersection of **AI, Data, Automation, and Product Str
 
 ---
 
-## ⚙️ Tech Stack
+## 🛠 Tech Stack
 
-**Languages**
-- Python
-- SQL
-- JavaScript
+Python • SQL • APIs • Automation • AI Systems  
+Celigo • Make • n8n • Workato  
+Power BI • Data Analytics • Product Analytics
 
 **AI & Data**
 - Machine Learning
